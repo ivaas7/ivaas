@@ -31,13 +31,11 @@ const Footer = () => {
                 </p>
                 <p class="my-2">
                   <strong>Phone :</strong>{" "}
-                  <a href="tel:83687 73751">83687 73751</a>
+                  <a href="tel:9876543210">9876543210</a>
                 </p>
                 <p>
                   <strong>Email :</strong>{" "}
-                  <a href="mailto:mehrahimashi3@gmail.com">
-                    mehrahimashi3@gmail.com
-                  </a>
+                  <a href="mailto:info@example.com">info@example.com</a>
                 </p>
                 {/* <ul class="top-right-info mt-4">
                   <li class="facebook-w3">
