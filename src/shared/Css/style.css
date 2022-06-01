@@ -1,0 +1,11 @@
+.main-header-box {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.ivaas-servies li a {
+  color: #aaa;
+}
+.ivaas-servies li a:hover {
+  color: var(--theme);
+}
